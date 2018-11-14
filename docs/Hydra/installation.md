@@ -4,6 +4,7 @@ Hydra can be used for a single Minecraft Server as well as for multiple. If you 
 
 ## Regular Install
 
+Install ProtocolLib(https://www.spigotmc.org/resources/protocollib.1997/) by downloading it and dropping it in your plugins directory.
 Drop your `Hydra.jar` into your plugins directory and restart your server.
 
 To use Hydra you will need to be OP or have the '*' permission.
