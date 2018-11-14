@@ -1,0 +1,123 @@
+# Overview
+
+
+Actions are functions that gets executed when the scripts requirements are met. There are a number of different actions in the current version of Hydra. Here’s a list of the currently available ones.
+
+## Give Item
+
+
+Give a player an specific amount of an item.
+
+## Add money
+
+
+Uses vault(link) and a vault-compatible economy plugin to remove money from the players balance.
+
+## Give OP
+
+
+Gives op to the player.
+
+## Block Picker
+
+Opens a GUI with lots of blocks. When you press 1 of the blocks, the id gets put into a placeholder. You can use this to pick a block for a build plugin.
+
+## Send Broadcast
+
+
+Broadcasts a message to all online players.
+
+## Send to other Server
+
+
+Sends the player to another server on a bungee. Bungeecord is required.
+
+## Close GUI
+
+
+Closes the currently open GUI(only useful for buttons in menus, not for commands).
+
+## Command
+
+
+Makes the console execute a command. You can use {player} in commands to write a command using the players name as a argument.
+
+## Delay
+
+
+Delays the following actions. Good in a sequence with multiple actions.
+
+## Dialog
+
+
+Opens a dialog box which allows the player to write a text bit which then gets put into a placeholder. Good for allowing someone to choose something via text.
+
+## Set Gamemode
+
+
+Sets the gamemode of the player to a specific gamemode. Modes which you can set the player to include Survival, Adventure, Creative, Spectator.
+
+## Send Message
+
+
+Send message to the player.
+
+## Open GUI
+
+
+Opens a specific GUI.
+
+## Player Command
+
+
+Makes the player execute a command. You can use {player} in commands to write a command using the players name as a argument.
+
+## Rain Action
+
+
+Sets the rain state.
+
+## Remove Item
+
+
+Removes a specific amount of a specific item.
+
+## Remove Money
+
+
+Uses vault(https://www.spigotmc.org/resources/vault.34315/) and a vault-compatible economy plugin to remove money from the players balance.
+
+## Take OP
+
+
+Removes Operator from the player.
+
+## Send Actionbar
+
+
+Sends a message to the players action bar just above the experience bar.
+
+## Send Title
+
+
+Sends a message to the players Title spot in the middle of the screen.
+
+## Sound
+
+
+Plays a sound to the player.
+
+## Stop all
+
+
+Stops all following actions. Good for sequences.
+
+## Sun Action
+
+
+Sets the current time/sets the sun to a certain position
+
+## Teleport Player
+
+
+Teleports the player to a certain coordinate.
