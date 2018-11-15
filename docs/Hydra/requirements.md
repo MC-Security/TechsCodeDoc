@@ -1,7 +1,6 @@
-# Overview
+# Requirements
 
-
-Requirements are conditions that have to be met for the action to be triggered/for the button to be visible. There are a number of different requirements in the current version of Hydra. Here’s a list of the currently available ones.
+Requirements are conditions which can be used to add logical functions to your GUI's and Commands. Most of these requirements become very powerful once combined with placeholders.
 
 ## Compare
 
@@ -30,17 +29,17 @@ Checks if the player has a certain amount of an item. Can not be used to check i
 ## Has Money
 
 
-Uses vault(https://www.spigotmc.org/resources/vault.34315/) and a vault-compatible economy plugin to check if the players has a specific amount of money left in the bank. 
+Uses vault(https://www.spigotmc.org/resources/vault.34315/) and a vault-compatible economy plugin to check if the players has a specific amount of money left in the bank.
 
 ## Operator
 
 
-Checks if the player is an ooperator”/op”). Good for close to vanilla experience servers who doesn’t have a permission plugin. 
+Checks if the player is an ooperator”/op”). Good for close to vanilla experience servers who doesn’t have a permission plugin.
 
 ## Permission
 
 
-Checks if the player has a specific permission. Can not be used to check if the player is in a certain permission group. 
+Checks if the player has a specific permission. Can not be used to check if the player is in a certain permission group.
 
 ## Player Online
 
@@ -50,9 +49,9 @@ Checks if a specific player is online.
 ## Require Variable
 
 
-Checks if a specific variable exists. 
+Checks if a specific variable exists.
 
 ## World Requirement
 
 
-Checks if the player is in a specific world. Can be used on a bungeecord network to check which server the player is on by using ReWorld or Multiverse and renaming the worlds to unique names and then setting this requirement to match those names based on which server should have the action/button available. 
+Checks if the player is in a specific world. Can be used on a bungeecord network to check which server the player is on by using ReWorld or Multiverse and renaming the worlds to unique names and then setting this requirement to match those names based on which server should have the action/button available.

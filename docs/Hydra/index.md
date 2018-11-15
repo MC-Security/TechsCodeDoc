@@ -1,3 +1,21 @@
-# Hydra
+# Overview
 
-Hydra is a plugin that allows you to customize most visuals of a server. You can make GUIs(chest-menus), you can customize text for other plugins and you can make your own commands. Hydra has an extensive scripting-system based on visual scripting, allowing you to create actions which require a certain requirement(s) to activate. Hydra currently costs 10 € and is available for purshase at ([Spigot](https://www.spigotmc.org/resources/hydra.49330/)).
+Hydra is aimed to provide you powerful tools to make change the Style of your Server. You can make your own GUIs, edit every Message from every Plugin or create your own Commands. Hydra has an extensive scripting-system based on visual scripting, allowing you to create actions which require a certain requirements to activate.
+
+## Features
+
+* Chat Editor ([Click]("#"))
+* GUI Creator ([Click]("#"))
+* Command Creator ([Click]("#"))
+* Key Remapper ([Click]("#"))
+* Tablist Editor ([Click]("#"))
+
+## Commands
+
+* `/hydra` will open the GUI
+
+Hydra only requires the `hydra.admin` permission to have full control about all features.
+
+## Script System
+
+W.I.P
