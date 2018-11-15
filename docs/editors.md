@@ -7,5 +7,6 @@
 
 Contributors:
 
+* DreamplaySE ([Github](https://github.com/DreamplaySE))
 * Tech ([Github](https://github.com/TechsCode))
 * EazyFTW ([Github](https://github.com/EazyFTW))
