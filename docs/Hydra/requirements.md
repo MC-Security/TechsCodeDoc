@@ -30,7 +30,7 @@ Checks if the player has a certain amount of an item. Can not be used to check i
 ## Has Money
 
 
-Uses vault(link) and a vault-compatible economy plugin to check if the players has a specific amount of money left in the bank. 
+Uses vault(https://www.spigotmc.org/resources/vault.34315/) and a vault-compatible economy plugin to check if the players has a specific amount of money left in the bank. 
 
 ## Operator
 
