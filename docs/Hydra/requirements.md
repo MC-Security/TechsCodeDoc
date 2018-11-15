@@ -25,7 +25,7 @@ Checks if the player is in a certain gamemode. Modes which you can check for inc
 ## Require Item
 
 
-Not yet written.
+Checks if the player has a certain amount of an item. Can not be used to check if a player has an item with a specific NBT-tag, name or lore.
 
 ## Has Money
 
